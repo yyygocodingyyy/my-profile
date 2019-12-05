@@ -23,7 +23,7 @@ h2{
 	font-weight: lighter;
 }
 
-a{
+#introduction a{
 	text-decoration: none;
 	color: #6B72E1;
 	font-family: 'Roboto', sans-serif;
@@ -31,7 +31,8 @@ a{
 	font-size: 16px;
 	font-weight: lighter;
 }
-a:hover{
+
+#introduction a:hover{
 	background-color: #4B85E4;
 }
 
@@ -84,6 +85,10 @@ a:hover{
 	margin: 40px;
 }
 
+/*#introduction{
+	background-image: url("img/bg.jpg");
+	background-size: cover;
+}*/
 
 /* order matters, from big window to small*/
 
